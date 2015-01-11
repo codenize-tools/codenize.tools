@@ -1,7 +1,7 @@
 # Site settings
 title: Codenize.tools
 email: sgwr_dts@yahoo.co.jp
-#description:
+description: "codenize any services, and manage by DSL"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://codenize.tools" # the base hostname & protocol for your site
 twitter_username: sgwr_dts

@@ -5,7 +5,7 @@ layout: default
 ## About
 Codenize.tools manege any services by DSL.
 
-For example, Route53 be managed by the following Ruby code:
+For example, [Route53](http://aws.amazon.com/route53/) be managed by the following Ruby code:
 
 {% highlight ruby %}
 hosted_zone "example.com." do

@@ -2,6 +2,30 @@
 layout: default
 ---
 
+## About
+Codenize.tools manege any services by DSL.
+
+For example, Route53 be managed by the following Ruby code:
+
+{% highlight ruby %}
+hosted_zone "example.com." do
+  rrset "example.com.", "A" do
+    ttl 300
+    resource_records(
+      "127.0.0.1",
+      "127.0.0.2"
+    )
+  end
+end
+{% endhighlight %}
+
+## Why?
+* Idempotency. The service is set according to the definition of code.
+* It is easy to grasp the service configuration.
+* The service configuration can be managed by VCS.
+
+## Tools
+
 ### AWS
 - [Roadworker](http://roadworker.codenize.tools/) - Route53
 - [Piculet](http://piculet.codenize.tools/) - Security Groups

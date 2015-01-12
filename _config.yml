@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://codenize.tools" # the base hostname & protocol for your site
 twitter_username: sgwr_dts
 github_username:  winebarrel
+original_background_image_url: "https://www.flickr.com/photos/jbozanowski/4116825468/in/photolist-7gMNMs-dW8wqD-6W2FVq-dnXrhT-dnXpu8-meKhya-g7Cmfp-ab5HoH-9Em3xe-4Eg5eo-bVT9p5-dk9Z16-dpJWxv-9wNkDV-8pbJJn-4KoZoy-dwSgHy-68C8fu-9Ep3Gu-4HCufD-4RKwhF-5Y5Q27-9Eqtas-bNDuuc-4pJjfH-9ZowN4-qDXt85-3cZaXM-5tpDAf-bFdGjL-7fsC2u-czFR8u-bs1vGR-7jgJkG-4FCZsn-q1V2UW-6fo7FK-3X5hRz-5tkbK8-9WfYXQ-9T3PS1-8G1uXV-aX4KQ4-5tpCHu-bEJcGu-9rr9re-dnXhr6-dnXmEE-BYMqK-3Lzso/"
+background_image_licence: "images/background.license"
 
 # Build settings
 markdown: kramdown

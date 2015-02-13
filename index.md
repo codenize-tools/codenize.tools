@@ -40,4 +40,4 @@ end
 - [Ridgepole](http://ridgepole.codenize.tools/) - DB(Rails)
 - [Gratan](http://gratan.codenize.tools/) - MySQL permissions
 - [watch_list](http://watch_list.codenize.tools/) - Uptime Robot
-- [Cronicle](http://cronicle.codenize.tools/)
+- [Cronicle](http://cronicle.codenize.tools/) - Job Runner / Job Scheduler

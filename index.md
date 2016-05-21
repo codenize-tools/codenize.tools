@@ -21,23 +21,30 @@ end
 
 ## Why?
 * Idempotency. The service is set according to the definition of code.
-* It is easy to grasp the service configuration.
+* It is easy to [grep](http://linuxcommand.org/man_pages/grep1.html) the service configuration.
 * The service configuration can be managed by VCS.
 
 ## Tools
 
 ### AWS
-- [Roadworker](http://roadworker.codenize.tools/) - Route53
-- [Piculet](http://piculet.codenize.tools/) - Security Groups
-- [Kelbim](http://kelbim.codenize.tools/) - ELB
-- [Miam](http://miam.codenize.tools/) - IAM
-- [Kumogata](http://kumogata.codenize.tools/) - CloudFormation
-- [Eipmap](http://eipmap.codenize.tools/) - Elastic IP
-- [Radiosonde](http://radiosonde.codenize.tools/) - CloudWatch Alarm
-- [Meteorlog](http://meteorlog.codenize.tools/) - CloudWatch Logs
+- [Roadworker](https://github.com/roadworker) - Route53
+- [Piculet](https://github.com/piculet) - Security Groups
+- [Kelbim](https://github.com/kelbim) - ELB
+- [Miam](https://github.com/miam) - IAM
+- [Kumogata2](https://github.com/kumogata2) - CloudFormation
+  - old version: [Kumogata](https://github.com/kumogata)
+- [Eipmap](https://github.com/eipmap) - Elastic IP
+- [Radiosonde](https://github.com/radiosonde) - CloudWatch Alarm
+- [Meteorlog](https://github.com/meteorlog) - CloudWatch Logs
+- [Mappru](https://github.com/winebarrel/mappru) - VPC Route table
+- [Bukelatta](https://github.com/winebarrel/bukelatta) - S3 Bucket Policy
+- [Repol](https://github.com/winebarrel/bukelatta) - ECR Repository Policy
 
-### Other
-- [Ridgepole](http://ridgepole.codenize.tools/) - DB(Rails)
-- [Gratan](http://gratan.codenize.tools/) - MySQL permissions
-- [watch_list](http://watch_list.codenize.tools/) - Uptime Robot
-- [Cronicle](http://cronicle.codenize.tools/) - Job Runner / Job Scheduler
+### Other Service
+- [Ridgepole](https://github.com/ridgepole) - DB(Rails)
+- [Gratan](https://github.com/gratan) - MySQL privileges
+- [Posgra](https://github.com/winebarrel/posgra) - PostgreSQL privileges
+- [watch_list](https://github.com/watch_list) - Uptime Robot
+- [Cronicle](https://github.com/cronicle) - Job Runner / Job Scheduler
+- [Barkdog](https://github.com/winebarrel/barkdog) - Datadog monitors
+- [Lbrt](https://github.com/winebarrel/lbrt) - Librato

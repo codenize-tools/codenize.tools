@@ -39,6 +39,7 @@ end
 - [Mappru](https://github.com/winebarrel/mappru) - VPC Route table
 - [Bukelatta](https://github.com/winebarrel/bukelatta) - S3 Bucket Policy
 - [Repol](https://github.com/winebarrel/bukelatta) - ECR Repository Policy
+- [Cfdef](https://github.com/winebarrel/cfdef) - CloudFront
 
 ### Other Service
 - [Ridgepole](https://github.com/ridgepole) - DB(Rails)

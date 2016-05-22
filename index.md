@@ -42,10 +42,10 @@ end
 - [Cfdef](https://github.com/winebarrel/cfdef) - CloudFront
 
 ### Other Service
-- [Ridgepole](https://github.com/ridgepole) - DB(Rails)
-- [Gratan](https://github.com/gratan) - MySQL privileges
-- [Posgra](https://github.com/winebarrel/posgra) - PostgreSQL privileges
-- [watch_list](https://github.com/watch_list) - Uptime Robot
-- [Cronicle](https://github.com/cronicle) - Job Runner / Job Scheduler
+- [Ridgepole](https://github.com/winebarrel/ridgepole) - DB(Rails)
+- [Gratan](https://github.com/winebarrel/gratan) - MySQL privileges
+- [Posgra](https://github.com/winebarrel/winebarrel/posgra) - PostgreSQL privileges
+- [watch_list](https://github.com/winebarrel/watch_list) - Uptime Robot
+- [Cronicle](https://github.com/winebarrel/cronicle) - Job Runner / Job Scheduler
 - [Barkdog](https://github.com/winebarrel/barkdog) - Datadog monitors
 - [Lbrt](https://github.com/winebarrel/lbrt) - Librato

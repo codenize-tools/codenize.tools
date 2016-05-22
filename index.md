@@ -35,7 +35,7 @@ end
   - old version: [Kumogata](https://github.com/winebarrel/kumogata)
 - [Eipmap](https://github.com/winebarrel/eipmap) - Elastic IP
 - [Radiosonde](https://github.com/winebarrel/radiosonde) - CloudWatch Alarm
-- [Meteorlog](https://github.com/meteorlog) - CloudWatch Logs
+- [Meteorlog](https://github.com/winebarrel/meteorlog) - CloudWatch Logs
 - [Mappru](https://github.com/winebarrel/mappru) - VPC Route table
 - [Bukelatta](https://github.com/winebarrel/bukelatta) - S3 Bucket Policy
 - [Repol](https://github.com/winebarrel/bukelatta) - ECR Repository Policy

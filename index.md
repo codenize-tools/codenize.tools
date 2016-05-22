@@ -44,7 +44,7 @@ end
 ### Other Service
 - [Ridgepole](https://github.com/winebarrel/ridgepole) - DB(Rails)
 - [Gratan](https://github.com/winebarrel/gratan) - MySQL privileges
-- [Posgra](https://github.com/winebarrel/winebarrel/posgra) - PostgreSQL privileges
+- [Posgra](https://github.com/winebarrel/posgra) - PostgreSQL privileges
 - [watch_list](https://github.com/winebarrel/watch_list) - Uptime Robot
 - [Cronicle](https://github.com/winebarrel/cronicle) - Job Runner / Job Scheduler
 - [Barkdog](https://github.com/winebarrel/barkdog) - Datadog monitors

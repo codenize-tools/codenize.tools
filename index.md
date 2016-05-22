@@ -38,7 +38,7 @@ end
 - [Meteorlog](https://github.com/winebarrel/meteorlog) - CloudWatch Logs
 - [Mappru](https://github.com/winebarrel/mappru) - VPC Route table
 - [Bukelatta](https://github.com/winebarrel/bukelatta) - S3 Bucket Policy
-- [Repol](https://github.com/winebarrel/bukelatta) - ECR Repository Policy
+- [Repol](https://github.com/winebarrel/repol) - ECR Repository Policy
 - [Cfdef](https://github.com/winebarrel/cfdef) - CloudFront
 
 ### Other Service
